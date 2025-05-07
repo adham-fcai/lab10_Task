@@ -5,7 +5,7 @@ class Main {
         System.out.println(studentname);
          System.out.println(Id);
 
-        String studentname2="adham salah";
+          String studentname2="adham salah";
         int Id2=20220051;
         System.out.println(studentname2);
          System.out.println(Id2);
