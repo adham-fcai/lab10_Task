@@ -9,5 +9,9 @@ class Main {
         int Id2=20220051;
         System.out.println(studentname2);
          System.out.println(Id2);
+ String studentname3="ahmed atef";
+        int Id3=20220024;
+        System.out.println(studentname3);
+         System.out.println(Id3);
     }
 }
