@@ -1,0 +1,8 @@
+class Main {
+    public static void main(String[] args) {
+        String studentname="Nouran Essam Ramadan";
+        int Id=20230450;
+        System.out.println(studentname);
+         System.out.println(Id);
+    }
+}
