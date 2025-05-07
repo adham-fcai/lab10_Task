@@ -1,7 +1,7 @@
 class Main {
     public static void main(String[] args) {
-        String studentname="Nouran Essam Ramadan kamel";
-        int Id=20230450;
+        String studentname1="Nouran Essam Ramadan kamel";
+        int Id1=20230450;
         System.out.println(studentname);
          System.out.println(Id);
 
@@ -9,7 +9,8 @@ class Main {
         int Id2=20220051;
         System.out.println(studentname2);
          System.out.println(Id2);
- String studentname3="ahmed atef";
+
+       String studentname3="ahmed atef";
         int Id3=20220024;
         System.out.println(studentname3);
          System.out.println(Id3);
